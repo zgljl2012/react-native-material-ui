@@ -1,5 +1,5 @@
 {
-  "name": "react-native-material-ui",
+  "name": "react-native-material-ui-x",
   "version": "0.0.1",
   "description": "React Native Material Design Components",
   "main": "./index.js",
@@ -27,9 +27,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xotahal/react-native-material-ui/issues"
+    "url": "https://github.com/zgljl2012/react-native-material-ui/issues"
   },
-  "homepage": "https://github.com/xotahal/react-native-material-ui",
+  "homepage": "https://github.com/zgljl2012/react-native-material-ui",
   "peerDependencies": {
     "react": "*",
     "react-native": "*",
